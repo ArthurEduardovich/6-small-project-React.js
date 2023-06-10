@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  width: 170px;
+  height: 200px;
+  border: 1px rgb(20, 12, 1) solid;
+  border-radius: 10px;
+}
+
+.card-generator {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 50px;
+}
+
+.buttons {
+  cursor: pointer;
+  background-color: bisque;
+  border: 1px beige solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.buttons:hover {
+  background-color: rgb(215, 215, 144);
+  border: 1px rgb(215, 215, 144) solid;
+}

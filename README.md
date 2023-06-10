@@ -1,4 +1,11 @@
-# 6-small-project-React.js
-React project (6 small projects in React.js)
-Здесь мои 6 небольших проектов с использованием React.js
-Это мои первые проекты и я делал их параллельно изучая документацию на сайте reactjs.org чтобы понять и попытаться глубоко осознать основные концепции React (компоненты, состояния, JSX, VDOM и так далее...) ;)
+# My first React project the learnin React
+
+## Available Scripts :
+
+### `npm start`
+
+### `npm test`
+
+### `npm run build`
+
+### `npm run eject`
