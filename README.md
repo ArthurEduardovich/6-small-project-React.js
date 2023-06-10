@@ -1,4 +1,4 @@
-# My first React project the learnin React
+# My first React project the learning React
 
 ## Available Scripts :
 
